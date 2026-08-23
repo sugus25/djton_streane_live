@@ -2,15 +2,39 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall</title>
+   <!-- 🔥 นำเข้า Firebase SDK เวอร์ชัน 9+ -->
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js";
+  import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-database.js";
+
+  // ==============================================
+  // ⚙️ ใส่ข้อมูล Firebase ของคุณตรงนี้ครับ
+  // ==============================================
+const firebaseConfig = {
+  apiKey: "AIzaSyAO_w4grQ8ljTWBhTKeH5lR_YCGaDG8eBw",
+  authDomain: "coffee-spark-ai-barista-ceb7e.firebaseapp.com",
+  projectId: "coffee-spark-ai-barista-ceb7e",
+  storageBucket: "coffee-spark-ai-barista-ceb7e.firebasestorage.app",
+  messagingSenderId: "921765732549",
+  appId: "1:921765732549:web:f4a748d34a0d1abe9390ac"
+};
+
+  // เริ่มต้นใช้งาน Firebase
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+
+  // ให้ฟังก์ชันอื่นๆ เข้าถึงได้
+  window.firebaseDB = { db, ref, onValue, set };
+</script>
     <meta name="description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://ubet89.news/app?openExternalBrowser=1#/home">
+    <link rel="canonical" href="">
     
     <meta property="og:site_name" content="KicksBall">
     <meta property="og:title" content="ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall">
     <meta property="og:description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ubet89.news/app?openExternalBrowser=1#/home">        
+    <meta property="og:url" content="">        
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall">
     <meta name="twitter:description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
@@ -24,13 +48,13 @@
     
     <style>
       /* ===== ปรับปรุงเมนูให้ลิงก์ทำงานได้ ===== */
-      @media (max-width: 768px) {
+      @media (max-width: 78px) {
         .main-nav {
           position: fixed;
           top: 0;
-          right: 0;
+          left: 0;
           height: 100vh;
-          width: 280px;
+          width: 70px;
           background: #fff;
           box-shadow: -2px 0 10px rgba(0,0,0,0.15);
           transform: translateX(100%);
@@ -56,7 +80,7 @@
           position: relative;
           z-index: 1001; /* ✅ อยู่บนสุด ไม่มีอะไรทับ */
           display: block;
-          width: 100%;
+          width: 50%;
           box-sizing: border-box;
         }
         .main-nav a:hover {
@@ -128,21 +152,28 @@
 
 <header class="site-header">
     <div class="container header-inner">
-                <a class="brand" href="https://kicksball.com/" target="_self">
+                <a class="brand" href="" target="_self">
             <img src="https://kicksball.com/assets/img/logo.png" alt="KicksBall" class="brand-logo" width="56" height="40">
         </a>
 
         <button class="nav-toggle" aria-label="เมนู" data-nav-toggle="">
             <span></span><span></span><span></span>
         </button>
-
+    <a href="https://sugus25.github.io/iptv-youtube-live/" target="_top" class="nav-toggle">หน้าแรก</a>
+    <a href="https://sugus25.github.io/IPTV-THAI/" target="_blank">บอลสด1</a>
+    <a href="" target="_top">โปรแกรมบอล</a>
+    <a href="" target="_top">ผลบอล</a>
+    <a href="https://sugus25.github.io/djton_streane_live/" target="_top" class="active">ดูทีวี</a>
+    <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="">ubet89</a>
+        </nav>
+        
         <nav class="main-nav" data-nav="">
             <!-- ✅ เพิ่ม target="_top" และตรวจสอบลิงก์ -->
-            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="">หน้าแรก</a>
-            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_blank">บอลสด</a>
-            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">โปรแกรมบอล</a>
-            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">ผลบอล</a>
-            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="active">ดูทีวี</a>
+            <a href="" target="_top" class="">หน้าแรก</a>
+            <a href="https://sugus25.github.io/IPTV-THAI/" target="_blank">บอลสด1</a>
+            <a href="" target="_top">โปรแกรมบอล</a>
+            <a href="" target="_top">ผลบอล</a>
+        <a href="https://sugus25.github.io/djton_streane_live/" target="_top" class="active">ดูทีวี</a>
             <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="">ubet89</a>
         </nav>
     </div>
@@ -157,7 +188,7 @@
     </div>
 
     <div class="tv-cats">
-        <a class="cat-chip active" href="/storage/emulated/0/Plublic/KICKSBALL/คิกบอล.html">ทั้งหมด</a>
+        <a class="cat-chip active" href="/storage/emulated/0/Plublic/KICKSBALL/คิกบอล.html">KICKSBALL</a>
         <a class="cat-chip" href="https://sugus25.github.io/iptvweb/" target="_blank">เครื่องเล่นiPtv</a>
         <a class="cat-chip" href="https://sugus25.github.io/m3u8-xtream-playlist/" target="_blank">xtream-playlist</a>
         <a class="cat-chip" href="https://sugus320.github.io/sugus320tv/" target="_blank">sugus320tv</a>
@@ -168,12 +199,12 @@
        <section class="tv-section">
                 <h2 class="section-title">ข่าว</h2>
                 <div class="tv-grid">
-                                            <a class="tv-card" href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">
+                                            <a class="tv-card" href="" target="_top">
                             <span class="tv-logo-wrap">
                                 <img src="https://ubet89.news/ubet89/assets/images/branch/ubet89/icon/AnyConv.com__Ubet89%20%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99.webp" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
                             </span>
-                            <span class="tv-name">UBET89</span>
+                <span class="tv-name">UBET89</span>
                         </a>
                                             <a class="tv-card" href="https://www.dola.com/chat/" target="_top">
                             <span class="tv-logo-wrap">
@@ -182,7 +213,33 @@
                             </span>
                             <span class="tv-name">DOLLA</span>
                         </a>
-                                            <a class="tv-card" href="https://www.facebook.com/" target="_blank">
+                 
+                     <a class="tv-card" href="https://www.6thwin.com/m/index.html" data-disable-mlink="true" target="_blank">
+                            <span class="tv-logo-wrap">
+                                <img src="https://www.6thwin.com/m/logo.b4d04e45.png" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">THWIN</span>
+                        </a>
+                              
+                                           <a class="tv-card" href="https://www.jokerzone68.com/list-games" data-disable-mlink="true" target="_blank">
+                            <span class="tv-logo-wrap">
+                                <img src="https://dl.zhenwudadi.net/images/web/assets/v.1.22/themes/jk/mobile/assets/images/logo-app.png" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">JOKER GAMING</span>
+                        </a>
+                                    </div>         
+                                      <a class="tv-card" href="https://www.jokerzone68.com/list-games" data-disable-mlink="true" target="_blank">
+                            <span class="tv-logo-wrap">
+                                <img src="https://dl.zhenwudadi.net/images/web/assets/v.1.22/themes/jk/mobile/assets/images/logo-app.png" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">JOKER GAMING</span>
+                        </a>
+                                    </div>
+
+                                        <a class="tv-card" href="https://www.facebook.com/&amp;action=app_android" data-disable-mlink="true" target="_blank">
                             <span class="tv-logo-wrap">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original" alt="สำรวจโลก" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
