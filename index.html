@@ -1,0 +1,247 @@
+<!DOCTYPE html><html lang="th">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall</title>
+    <meta name="description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://ubet89.news/app?openExternalBrowser=1#/home">
+    
+    <meta property="og:site_name" content="KicksBall">
+    <meta property="og:title" content="ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall">
+    <meta property="og:description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ubet89.news/app?openExternalBrowser=1#/home">        
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall">
+    <meta name="twitter:description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
+
+    <link rel="icon" href="https://kicksball.com/assets/img/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800;900&amp;display=swap">
+    <link rel="preload" href="https://kicksball.com/assets/css/style.css" as="style">
+    <link rel="stylesheet" href="https://kicksball.com/assets/css/style.css">
+    
+    <style>
+      /* ===== ปรับปรุงเมนูให้ลิงก์ทำงานได้ ===== */
+      @media (max-width: 768px) {
+        .main-nav {
+          position: fixed;
+          top: 0;
+          right: 0;
+          height: 100vh;
+          width: 280px;
+          background: #fff;
+          box-shadow: -2px 0 10px rgba(0,0,0,0.15);
+          transform: translateX(100%);
+          transition: transform 0.3s ease;
+          z-index: 999;
+          padding: 2rem 1.5rem;
+          display: flex;
+          flex-direction: column;
+          gap: 0;
+        }
+        .main-nav.active {
+          transform: translateX(0);
+        }
+        /* ✅ สำคัญ: ให้ลิงก์คลิกได้ ปกติ */
+        .main-nav a {
+          padding: 14px 16px;
+          color: #333;
+          text-decoration: none;
+          font-size: 16px;
+          border-bottom: 1px solid #f0f0f0;
+          cursor: pointer;
+          pointer-events: auto !important; /* ✅ บังคับให้คลิกได้ */
+          position: relative;
+          z-index: 1001; /* ✅ อยู่บนสุด ไม่มีอะไรทับ */
+          display: block;
+          width: 100%;
+          box-sizing: border-box;
+        }
+        .main-nav a:hover {
+          background: #f5f5f5;
+          color: #007bff;
+        }
+        .main-nav a.active {
+          color: #007bff;
+          font-weight: 600;
+          background: #eef5ff;
+        }
+        .nav-toggle {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+          background: none;
+          border: none;
+          cursor: pointer;
+          z-index: 1002;
+          padding: 8px;
+        }
+        .nav-toggle span {
+          width: 24px;
+          height: 2px;
+          background: #000;
+          border-radius: 2px;
+          transition: all 0.25s ease;
+          pointer-events: none;
+        }
+        .nav-toggle.active span:nth-child(1) {
+          transform: rotate(45deg) translate(5px, 5px);
+        }
+        .nav-toggle.active span:nth-child(2) {
+          opacity: 0;
+        }
+        .nav-toggle.active span:nth-child(3) {
+          transform: rotate(-45deg) translate(5px, -5px);
+        }
+        .nav-overlay {
+          position: fixed;
+          inset: 0;
+          background: rgba(0,0,0,0.4);
+          opacity: 0;
+          visibility: hidden;
+          transition: all 0.3s ease;
+          z-index: 998;
+        }
+        .nav-overlay.active {
+          opacity: 1;
+          visibility: visible;
+        }
+      }
+      @media (min-width: 769px) {
+        .nav-toggle { display: none; }
+        .main-nav a {
+          pointer-events: auto !important;
+          cursor: pointer;
+        }
+      }
+      /* ป้องกันการทับซ้อนขององค์ประกอบอื่น */
+      .site-header { position: relative; z-index: 50; }
+      .header-inner { position: relative; }
+    </style>
+</head>
+    
+<body data-base="">
+
+  <div class="nav-overlay" data-nav-overlay=""></div>
+
+<header class="site-header">
+    <div class="container header-inner">
+                <a class="brand" href="https://kicksball.com/" target="_self">
+            <img src="https://kicksball.com/assets/img/logo.png" alt="KicksBall" class="brand-logo" width="56" height="40">
+        </a>
+
+        <button class="nav-toggle" aria-label="เมนู" data-nav-toggle="">
+            <span></span><span></span><span></span>
+        </button>
+
+        <nav class="main-nav" data-nav="">
+            <!-- ✅ เพิ่ม target="_top" และตรวจสอบลิงก์ -->
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="">หน้าแรก</a>
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_blank">บอลสด</a>
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">โปรแกรมบอล</a>
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">ผลบอล</a>
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="active">ดูทีวี</a>
+            <a href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top" class="">ubet89</a>
+        </nav>
+    </div>
+</header>
+
+
+<main id="main">
+    <div class="container">
+    <div class="page-head">
+        <h1 class="page-title">📺 ดูทีวีออนไลน์</h1>
+        <span class="muted">282 ช่อง</span>
+    </div>
+
+    <div class="tv-cats">
+        <a class="cat-chip active" href="/storage/emulated/0/Plublic/KICKSBALL/คิกบอล.html">ทั้งหมด</a>
+        <a class="cat-chip" href="https://sugus25.github.io/iptvweb/" target="_blank">เครื่องเล่นiPtv</a>
+        <a class="cat-chip" href="https://sugus25.github.io/m3u8-xtream-playlist/" target="_blank">xtream-playlist</a>
+        <a class="cat-chip" href="https://sugus320.github.io/sugus320tv/" target="_blank">sugus320tv</a>
+        <a class="cat-chip" href="">บันเทิง</a>
+        <a class="cat-chip" href="https://github.com/" target="_blank">github</a>
+    </div>
+
+       <section class="tv-section">
+                <h2 class="section-title">ข่าว</h2>
+                <div class="tv-grid">
+                                            <a class="tv-card" href="https://ubet89.news/app?openExternalBrowser=1#/home" target="_top">
+                            <span class="tv-logo-wrap">
+                                <img src="https://ubet89.news/ubet89/assets/images/branch/ubet89/icon/AnyConv.com__Ubet89%20%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99.webp" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">UBET89</span>
+                        </a>
+                                            <a class="tv-card" href="https://kicksball.com/tv/arirang-584" target="_blank">
+                            <span class="tv-logo-wrap">
+                                <img src="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1739186052.png&amp;s=9aac423de774" alt="Arirang" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">Arirang</span>
+                        </a>
+                                            <a class="tv-card" href="https://www.facebook.com/" target="_blank">
+                            <span class="tv-logo-wrap">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">FACEBOOK</span>
+                        </a>
+                                    </div>
+            </section>
+            
+    </div>
+</main>
+
+<footer class="site-footer">
+    <div class="container footer-inner">
+        <div class="footer-brand">
+            <div class="brand-name">KicksBall</div>
+            <p class="muted">ดูบอลสด ตารางบอล ไฮไลท์ ครบจบในที่เดียว</p>
+        </div>
+        <nav class="footer-links">
+            <a href="https://coffee-spark-ai-barista-ceb7e.web.app/" target="_blank">หน้าแรก</a>
+            <a href="https://kicksball.com/?tab=upcoming" target="_blank">โปรแกรมบอล</a>
+            <a href="https://sugus25.github.io/iptvweb/" target="_blank">ดูทีวี</a>
+            <a href="" target="_self">ข่าวบอล</a>
+        </nav>
+            </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <p class="muted">© 2026 KicksBall — เว็บนำเสนอข้อมูลและลิงก์ถ่ายทอดสดเพื่อความบันเทิงเท่านั้น</p>
+        </div>
+    </div>
+</footer>
+
+<script>
+  const navToggle = document.querySelector('[data-nav-toggle]');
+  const nav = document.querySelector('[data-nav]');
+  const overlay = document.querySelector('[data-nav-overlay]');
+  const navLinks = nav.querySelectorAll('a');
+
+  function toggleMenu() {
+    navToggle.classList.toggle('active');
+    nav.classList.toggle('active');
+    overlay.classList.toggle('active');
+    document.body.style.overflow = nav.classList.contains('active') ? 'hidden' : '';
+  }
+
+  navToggle.addEventListener('click', toggleMenu);
+  overlay.addEventListener('click', toggleMenu);
+
+  // ✅ ปรับปรุง: ปิดเมนู + เปิดลิงก์
+  navLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      // ปิดเมนูก่อนเปลี่ยนหน้า
+      if (nav.classList.contains('active')) {
+        toggleMenu();
+      }
+      // ✅ ไม่ปิดกั้นการทำงานของลิงก์
+      // ไม่ใช้ e.preventDefault() ❌
+    });
+  });
+</script>
+
+</body></html>
