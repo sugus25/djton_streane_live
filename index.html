@@ -232,7 +232,23 @@ const firebaseConfig = {
                             </span>
                             <span class="tv-name">JOKER GAMING</span>
                         </a>
-                                               <a class="tv-card" href="https://www.ib888v6.com/" data-disable-mlink="true" target="_self">
+                                         <a class="tv-card" href="https://www.thb44.vip/" data-disable-mlink="true" target="_self">
+                            <span class="tv-logo-wrap">
+                                <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHitrioMkY58g/company-logo_200_200/B4EZ4HxG6FG8AI-/0/1778246774857/em99_technologies_logo?e=2147483647&v=beta&t=2n3bdAA_fSosKnkLGra1dhYkJkafZ11KMnbtuC3ogsU" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">EM99</span>
+                        </a>
+                                     <a class="tv-card" href="https://www.thb68.vip/" data-disable-mlink="true" target="_self">
+                            <span class="tv-logo-wrap">
+                                <img src="https://cdn.stillsunday.pl/thb168_1.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <span class="tv-play">▶</span>
+                            </span>
+                            <span class="tv-name">THB168</span>
+                        </a>
+        
+        
+         <a class="tv-card" href="https://www.ib888v6.com/" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
                                 <img src="https://www.ib888v6.com/LOGO/ib888-logo-slot-credit-free.jpg" alt="IB88" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
@@ -256,14 +272,25 @@ const firebaseConfig = {
                             </span>
                             <span class="tv-name">FACEBOOK</span>
                         </a>
-      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/truefilm2/chunks.m3u8|referer=https://atmflix.live/#Intent;package=com.mxtech.videoplayer.ad;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="true" target="_self">
+      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/samrujlok/chunks.m3u8|referer=https://atmflix.live/#Intent;package=com.pecana.iptvextreme;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
-                                <img src="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723122.png&s=5711fcf77486" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <img src="https://madoball.com/upload/563.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                      
                                 <span class="tv-play">▶</span>
                             </span>
-                            <span class="tv-name">TRUE FILM2</span>
+                            <span class="tv-name">สำรวจโลก</span>
                         </a>
-      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/animalshow/chunks.m3u8|referer=https://atmflix.live/#Intent;scheme=https;category=android.intent.category.BROWSABLE;type=application/vnd.apple.mpegurl;launchFlags=0x17000000;package=com.mxtech.videoplayer.ad;S.com.android.browser.application_id=com.android.chrome;end" data-disable-mlink="true" target="_self">
+                        
+     <a class="tv-card" href="javascript:showPlayerMenu('cdn2.stream.atmflix.live/atmflixlive/animalshow/chunks.m3u8', 'สำรวจโลก', 'https://atmflix.live/');">
+  <span class="tv-logo-wrap">
+    <img src="https://madoball.com/upload/563.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+    <span class="tv-play">▶</span>
+  </span>
+  <span class="tv-name">สำรวจโลก</span>
+</a>
+
+                    
+      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8|referer=https://atmflix.live/#Intent;scheme=https;category=android.intent.category.BROWSABLE;type=application/vnd.apple.mpegurl;launchFlags=0x17000000;package=com.pecana.iptvextreme;S.com.android.browser.application_id=com.android.chrome;end" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
                                 <img src="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723122.png&s=5711fcf77486" alt="สำรวจโลก" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
@@ -321,6 +348,89 @@ const firebaseConfig = {
         </div>
     </div>
 </footer>
+
+<div id="playerMenuOverlay" onclick="hidePlayerMenu()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:998;"></div>
+<div id="playerMenu" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#fff;border-radius:16px 16px 0 0;padding:20px;z-index:999;max-height:60vh;overflow-y:auto;">
+  <h4 style="margin:0 0 16px 0;text-align:center;">🎬 เลือกเครื่องเล่น</h4>
+  <div style="display:flex;flex-direction:column;gap:10px;">
+    <a id="pl-iptvextreme" class="btn-player-menu" style="padding:14px;background:#f0f4ff;border-radius:10px;text-align:center;text-decoration:none;color:#2563eb;font-weight:500;">📺 IPTV Extreme</a>
+    <a id="pl-vlc" class="btn-player-menu" style="padding:14px;background:#f0fdf4;border-radius:10px;text-align:center;text-decoration:none;color:#16a34a;font-weight:500;">🎬 VLC Media Player</a>
+    <a id="pl-yamby" class="btn-player-menu" style="padding:14px;background:#fef3c7;border-radius:10px;text-align:center;text-decoration:none;color:#d97706;font-weight:500;">📱 Yamby</a>
+    <a id="pl-drm" class="btn-player-menu" style="padding:14px;background:#fce7f3;border-radius:10px;text-align:center;text-decoration:none;color:#db2777;font-weight:500;">🔐 DRM Player</a>
+    <a id="pl-mx" class="btn-player-menu" style="padding:14px;background:#ede9fe;border-radius:10px;text-align:center;text-decoration:none;color:#7c3aed;font-weight:500;">🎞️ MX Player</a>
+  </div>
+  <button onclick="hidePlayerMenu()" style="width:100%;margin-top:16px;padding:12px;background:#f3f4f6;border:none;border-radius:10px;cursor:pointer;font-size:15px;">ปิด</button>
+</div>
+
+<script>
+let currentStream = '';
+let currentTitle = '';
+let currentReferer = '';
+
+// แสดงเมนูเลือกเครื่องเล่น
+function showPlayerMenu(streamUrl, title, refererUrl) {
+  currentStream = streamUrl;
+  currentTitle = title;
+  currentReferer = refererUrl;
+  document.getElementById('playerMenuOverlay').style.display = 'block';
+  document.getElementById('playerMenu').style.display = 'block';
+  document.body.style.overflow = 'hidden';
+}
+
+// ซ่อนเมนู
+function hidePlayerMenu() {
+  document.getElementById('playerMenuOverlay').style.display = 'none';
+  document.getElementById('playerMenu').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+
+
+// เปิดแต่ละแอปเมื่อเลือก
+document.addEventListener('DOMContentLoaded', function() {
+  // 1. IPTV Extreme
+  document.getElementById('pl-iptvextreme').addEventListener('click', function(e) {
+    e.preventDefault();
+        const intent = `intent://${currentStream}#Intent;package=com.pecana.iptvextreme;type=video/*;end`;
+    window.location.href = intent;
+    hidePlayerMenu();
+  });
+
+  // 2. VLC
+  document.getElementById('pl-vlc').addEventListener('click', function(e) {
+    e.preventDefault();
+    const intent = `intent://${currentStream}#Intent;package=com.hush.yamby;type=video/*;end`;
+    window.location.href = intent;
+    hidePlayerMenu();
+  });
+
+  // 3. Yamby
+  document.getElementById('pl-yamby').addEventListener('click', function(e) {
+    e.preventDefault();
+    const intent = `intent://${currentStream}#Intent;package=com.hush.yamby;S.title=${encodeURIComponent(currentTitle)};S.referer=${currentReferer};scheme=https;end`;
+    window.location.href = intent;
+    hidePlayerMenu();
+  });
+
+  // 4. DRM Player
+  document.getElementById('pl-drm').addEventListener('click', function(e) {
+    e.preventDefault();
+    const intent = `intent://${currentStream}#Intent;package=org.drm.player;type=video/*;end`;
+    window.location.href = intent;
+    hidePlayerMenu();
+  });
+
+  // 5. MX Player
+  document.getElementById('pl-mx').addEventListener('click', function(e) {
+    e.preventDefault();
+    const intent = `intent://${currentStream}#Intent;package=com.mxtech.videoplayer.ad;type=video/*;end`;
+    window.location.href = intent;
+    hidePlayerMenu();
+  });
+});
+</script>
+
+
 
 <script>
   const navToggle = document.querySelector('[data-nav-toggle]');
