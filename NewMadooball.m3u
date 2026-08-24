@@ -1,4 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/sugus25/djton_streane_live/refs/heads/main/%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5.m3u"
+#EXTM3U url="https://raw.githubusercontent.com/sugus25/djton_streane_live/refs/heads/main/NewMadooball.m3u"
 # =============================================
 # 📺 หมวดหมู่: ช่องไทย (Thai Channels)
 # =============================================
@@ -98,6 +98,8 @@ https://godlivetv.io/madoball/2819/playlist.m3u8|referer=https://madoball.com/
 https://godlivetv.io/madoball/2818/playlist.m3u8|referer=https://madoball.com/
 #EXTINF:-1 tvg-chno="48" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1877.jpg",🟡 True Film 1
 https://godlivetv.io/madoball/1877/playlist.m3u8|referer=https://madoball.com/
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png" group-title="🎬 ภาพยนตร์",🔴True Film2
+https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/chunks.m3u8|referer=https://atmflix.live/
 #EXTINF:-1 tvg-chno="49" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1915.jpg",🟣 True Film Asia
 https://godlivetv.io/madoball/1915/playlist.m3u8|referer=https://madoball.com/
 #EXTINF:-1 tvg-chno="50" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/1875.jpg",🟢 True Movie Hits
@@ -163,6 +165,8 @@ https://godlivetv.io/madoball/1845/playlist.m3u8|referer=https://madoball.com/
 https://godlivetv.io/madoball/1667/playlist.m3u8|referer=https://madoball.com/
 #EXTINF:-1 tvg-chno="75" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/555.jpg",🔵 Mysci
 https://godlivetv.io/madoball/555/playlist.m3u8|referer=https://madoball.com/
+#EXTINF:-1 tvg-chno="25" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/563.jpg",🟠 สำรวจโลก
+https://www.livedoomovies.com:4432/02_MYSCIHD_720p/chunklist.m3u8|https://www.livedoomovies.com/
 #EXTINF:-1 tvg-chno="76" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/1496.jpg",🟠 TLC
 https://godlivetv.io/madoball/1496/playlist.m3u8|referer=https://madoball.com/
 #EXTINF:-1 tvg-chno="77" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/722.jpg",🟡 True Explore SCI
