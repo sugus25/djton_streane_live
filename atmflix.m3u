@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://cdn.imgchest.com/files/42b31bd3433c.jpg",Animal Show
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/animalshow/playlist.m3u8
+ 
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://cdn.imgchest.com/files/5944e14c1b6f.webp",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8
+ดิจิตอล
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://madoball.com/upload/6330.jpg",ไทยรัฐ ทีวี
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/thairathtv/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="",TRUE FILM2
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://madoball.com/upload/1877.jpg",TRUE FILM1
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://madoball.com/upload/6328.jpg",AMARIN
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/amarintv/chunks.m3u8
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://madoball.com/upload/722.jpg",True Explore SCI
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/trueexploresci/chunks.m3u8
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://madoball.com/upload/740.jpg",True Explore WILD
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/trueexplorewild/chunks.m3u8
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://madoball.com/upload/715.jpg",thainess
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/thainess/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://madoball.com/upload/2815.jpg",CINEMAX
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/cinemax/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://madoball.com/upload/2820.jpg",HBO
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://cdn2.stream.atmflix.live/atmflixlive/hbo/chunks.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://madoball.com/upload/1875.jpg",True Movie Hits
+#EXTVLCOPT:http-referrer=https://inwiptv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNCAzOjM1OjIyIEFNJmhhc2hfdmFsdWU9ZU9kZ3hqV1daTUZ0YmJsMlNhS1BYdz09JnZhbGlkbWludXRlcz0y&demo
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="",
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="",
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
