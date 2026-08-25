@@ -1,30 +1,22 @@
 <!DOCTYPE html><html lang="th">
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>ดูทีวีออนไลน์ ฟรี ทุกช่อง | KicksBall</title>
-   <!-- 🔥 นำเข้า Firebase SDK เวอร์ชัน 9+ -->
-<script type="module">
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js";
-  import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-database.js";
+  <!-- ✅ PWA Essential -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#00c8ff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="IPTV Player">
+  <meta name="description" content="เครื่องเล่น IPTV — รองรับ M3U / JSON / W3U / HLS / DASH">
+  
+  <!-- ✅ ไอคอน (ถ้ายังไม่มี ใช้สิ่งนี้ไปก่อนได้เลย) -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2300c8ff' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>📺</text></svg>">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2300c8ff' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>📺</text></svg>">
+      <title>📺 ต้นทีวีออนไลน์  รองรับทุกฟอร์แมต</title
 
-  // ==============================================
-  // ⚙️ ใส่ข้อมูล Firebase ของคุณตรงนี้ครับ
-  // ==============================================
-const firebaseConfig = {
-  apiKey: "AIzaSyAO_w4grQ8ljTWBhTKeH5lR_YCGaDG8eBw",
-  authDomain: "coffee-spark-ai-barista-ceb7e.firebaseapp.com",
-  projectId: "coffee-spark-ai-barista-ceb7e",
-  storageBucket: "coffee-spark-ai-barista-ceb7e.firebasestorage.app",
-  messagingSenderId: "921765732549",
-  appId: "1:921765732549:web:f4a748d34a0d1abe9390ac"
-};
 
-  // เริ่มต้นใช้งาน Firebase
-  const app = initializeApp(firebaseConfig);
-  const db = getDatabase(app);
-
-  // ให้ฟังก์ชันอื่นๆ เข้าถึงได้
-  window.firebaseDB = { db, ref, onValue, set };
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.21/dist/hls.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dashjs@4.7.4/dist/dash.all.min.js"></script>
 </script>
     <meta name="description" content="ดูทีวีออนไลน์ฟรี ช่องกีฬา ข่าว บันเทิง และบอลสด ครบทุกช่อง ที่ KicksBall">
     <meta name="robots" content="index, follow">
@@ -45,6 +37,14 @@ const firebaseConfig = {
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800;900&amp;display=swap">
     <link rel="preload" href="https://kicksball.com/assets/css/style.css" as="style">
     <link rel="stylesheet" href="https://kicksball.com/assets/css/style.css">
+     <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#00c8ff">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="icon-512.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="IPTV Player">
+
     
     <style>
       /* ===== ปรับปรุงเมนูให้ลิงก์ทำงานได้ ===== */
