@@ -50,7 +50,7 @@ const firebaseConfig = {
       /* ===== ปรับปรุงเมนูให้ลิงก์ทำงานได้ ===== */
       @media (max-width: 78px) {
         .main-nav {
-          position: fixed;
+          position: flex;
           top: 0;
           right: 0;
           height: 100vh;
@@ -164,8 +164,9 @@ const firebaseConfig = {
 
 
 
-        <button class="nav-toggle" aria-label="เมนู" data-nav-toggle="">
-            <span></span><span></span><span></span>
+        <button class="nav-toggle" aria-label="เมนู" data-nav-toggle="active">
+            <aclass="เมนู" href="https://sugus25.github.io/IPTV-THAI/" target="_blank">บอลสด1</a>
+    <span></span><span></span><span></span>
         </button>
 
         </nav>
@@ -173,7 +174,7 @@ const firebaseConfig = {
         <nav class="main-nav" data-nav="">
             <!-- ✅ เพิ่ม target="_top" และตรวจสอบลิงก์ -->
             <a href="" target="_top" class="">หน้าแรก</a>
-            <a href="https://sugus25.github.io/IPTV-THAI/" target="_blank">บอลสด1</a>
+
             <a href="" target="_top">โปรแกรมบอล</a>
             <a href="https://sugus25.github.io/djton_streane_live/" target="_top">ผลบอล</a>
         <a href="https://sugus25.github.io/djton_streane_live/" target="_top" class="active">ดูทีวี</a>
@@ -265,32 +266,42 @@ const firebaseConfig = {
                             <span class="tv-name">webapptv</span>
                         </a>
             
-                <a class="tv-card" href="https://www.facebook.com/&amp;action=app_android" data-disable-mlink="true" target="_self">
+                <a class="tv-card" href="https://www.facebook.com/&amp;action=app_android#Intent;package=com.facebook.katana;end" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original" alt="สำรวจโลก" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
                             </span>
                             <span class="tv-name">FACEBOOK</span>
                         </a>
-      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/samrujlok/chunks.m3u8|referer=https://atmflix.live/#Intent;package=com.pecana.iptvextreme;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="true" target="_self">
+        <a class="tv-card" 
+       href = "intent://www.facebook.com#Intent;package=io.github.muntashirakon.AppManager;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="fales" target="_top">
+      <span class="tv-logo-wrap">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" loading="lazy" width="80" height="80">
+        <span class="tv-play">▶</span>
+      </span>
+      <span class="tv-name">FACEBOOK</span>
+    </a>
+    
+    
+      <a class="tv-card" href="intent://hls.iptv-th.workers.dev/live/2652/playlist.m3u8#Intent;package=io.github.muntashirakon.AppManager;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
-                                <img src="https://madoball.com/upload/563.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+                                <img src="https://goodiptv.site/images/tv/I8dHu0Wu2Wewg6OApRd4RkvepNgpprK20240418211432AnimalShow.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
                       
                                 <span class="tv-play">▶</span>
                             </span>
-                            <span class="tv-name">สำรวจโลก</span>
+                            <span class="tv-name">Animal Show</span>
                         </a>
                         
-     <a class="tv-card" href="javascript:showPlayerMenu('cdn2.stream.atmflix.live/atmflixlive/animalshow/chunks.m3u8', 'สำรวจโลก', 'https://atmflix.live/');">
+     <a class="tv-card" href="intent://drift.dooflixlive.com/dooflix_x1/moviehits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDgvMjUvMjAyNiAwODoxMDo0MiBBTSZoYXNoX3ZhbHVlPU5mS0ZWdnpXZ0hoS3VZeklQNlNudFE9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzY4NDUy#Intent;package=org.drm.player;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end">
   <span class="tv-logo-wrap">
-    <img src="https://madoball.com/upload/563.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
+    <img src="https://goodiptv.site/images/tv/U4ay3mkGw4JliPY1T1dnI8wvh00jumS20240418202419True_MoviesHits.jpg" alt="สำรวจโลก" loading="lazy" width="80" height="80">
     <span class="tv-play">▶</span>
   </span>
-  <span class="tv-name">สำรวจโลก</span>
+  <span class="tv-name">MOVIE HIT</span>
 </a>
 
                     
-      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8|referer=https://atmflix.live/#Intent;scheme=https;category=android.intent.category.BROWSABLE;type=application/vnd.apple.mpegurl;launchFlags=0x17000000;package=com.pecana.iptvextreme;S.com.android.browser.application_id=com.android.chrome;end" data-disable-mlink="true" target="_self">
+      <a class="tv-card" href="intent://cdn2.stream.atmflix.live/atmflixlive/samrujlok/playlist.m3u8|referer=https://atmflix.live/#Intent;package=io.github.muntashirakon.AppManager;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end" data-disable-mlink="true" target="_self">
                             <span class="tv-logo-wrap">
                                 <img src="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723122.png&s=5711fcf77486" alt="สำรวจโลก" loading="lazy" width="80" height="80">
                                 <span class="tv-play">▶</span>
