@@ -1,0 +1,137 @@
+{
+  "name": "madoohd TV",
+  "url": "",
+  "image": "https://www.i-pic.info/i/Gh6S1013754.png",
+  "groups": [
+{
+"name": "Digital-022",
+"author":"Gojek TV ห้ามขาย!",
+"url": "",
+"image": "https://i.postimg.cc/C1Nt5NjH/02-Digital.png",
+"stations": [
+{
+"name": "ch8",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1704117313.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/ch8/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "ch8"
+},
+{
+"name": "workpointtv",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1725896683.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/workpointtv/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "workpointtv"
+},
+{
+"name": "amarintv",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1704117706.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/amarintv/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "amarintv"
+        }
+      ]
+    },
+{"name": "บันเทิง-012",
+"author":"Gojek TV ห้ามขาย!",
+"url": "",
+"image": "https://i.postimg.cc/vTZKVVhR/03-Ent.png",
+"stations": [
+{
+"name": "True Movie Hits",
+"type": "m3u8",
+"image": "https://madoball.com/upload/1875.jpg",
+"url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNCAzOjM1OjIyIEFNJmhhc2hfdmFsdWU9ZU9kZ3hqV1daTUZ0YmJsMlNhS1BYdz09JnZhbGlkbWludXRlcz0y&demo",
+"referer": "https://inwiptv.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+"info": "True Movie Hits"
+},
+{
+"name": "hbo",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1703686191.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "hbo"
+},
+{
+"name": "cinemax",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1703786799.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/cinemax/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "cinemax"
+},
+{
+"name": "truefilm1",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1720380229.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "truefilm1"
+},
+{
+"name": "truefilm2",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1720723122.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "truefilm2"
+        }
+      ]
+    },
+{"name": "สารคดี-222",
+"author":"Gojek TV ห้ามขาย!",
+"url": "",
+"image": "https://i.postimg.cc/zv2cSG2y/04-Document.png",
+"stations": [
+{
+"name": "animalshow",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1705537126.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/animalshow/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "animalshow"
+},
+{
+"name": "trueexploresci",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1724167268.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/trueexploresci/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "trueexploresci"
+},
+{
+"name": "trueexplorewild",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1724166218.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/trueexplorewild/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "trueexplorewild"
+},
+{
+"name": "samrujlok",
+"type": "m3u8",
+"image": "https://dookeela.live/uploads/1705536821.png",
+"url": "https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/chunks.m3u8",
+"referer": "https://atmflix.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+"info": "samrujlok"
+        }
+      ]
+    }
+  ]
+}
