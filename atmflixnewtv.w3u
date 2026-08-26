@@ -1,0 +1,2333 @@
+[
+  {
+    "name": "abcnews",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1774368084.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/abcnews/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "abcnews"
+  },
+  {
+    "name": "amc",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1716339097.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/amc/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "amc"
+  },
+  {
+    "name": "anipluschannel",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1749743199.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/anipluschannel/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "anipluschannel"
+  },
+  {
+    "name": "astrocrickethd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1720166377.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrocrickethd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrocrickethd"
+  },
+  {
+    "name": "axn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719897010.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/axn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "axn"
+  },
+  {
+    "name": "al-jazeera-english-hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1730731551.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/al-jazeera-english-hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "al-jazeera-english-hd"
+  },
+  {
+    "name": "alure-channel",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731057748.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/alure-channel/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "alure-channel"
+  },
+  {
+    "name": "amarintv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1704117706.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/amarintv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "amarintv"
+  },
+  {
+    "name": "animalshow",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705537126.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/animalshow/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "animalshow"
+  },
+  {
+    "name": "animax",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1704038567.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/animax/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "animax"
+  },
+  {
+    "name": "arirang",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1739186052.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/arirang/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "arirang"
+  },
+  {
+    "name": "afn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1717696078.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/afn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "afn"
+  },
+  {
+    "name": "3bbasian",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703829940.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/3bbasian/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "3bbasian"
+  },
+  {
+    "name": "astroarena",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1697812603.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astroarena/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astroarena"
+  },
+  {
+    "name": "astroarena2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719768111.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astroarena2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astroarena2"
+  },
+  {
+    "name": "astroarenabola",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1700012376.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astroarenabola/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astroarenabola"
+  },
+  {
+    "name": "astroarenabola2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1698351468.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astroarenabola2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astroarenabola2"
+  },
+  {
+    "name": "astrobadminton",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729385788.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrobadminton/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrobadminton"
+  },
+  {
+    "name": "astrofootball",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729384406.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrofootball/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrofootball"
+  },
+  {
+    "name": "astrograndstand",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729384448.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrograndstand/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrograndstand"
+  },
+  {
+    "name": "astropremierleague",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729384542.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astropremierleague/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astropremierleague"
+  },
+  {
+    "name": "astropremierleague2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729384502.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astropremierleague2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astropremierleague2"
+  },
+  {
+    "name": "astrosportsplus",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729385809.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrosportsplus/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrosportsplus"
+  },
+  {
+    "name": "astrosportsplus2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733771622.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/astrosportsplus2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "astrosportsplus2"
+  },
+  {
+    "name": "bbc-earth",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1736064117.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bbc-earth/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bbc-earth"
+  },
+  {
+    "name": "bbc-lifestyle",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1727766790.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bbc-lifestyle/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bbc-lifestyle"
+  },
+  {
+    "name": "bbc-news",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705785324.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bbc-news/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bbc-news"
+  },
+  {
+    "name": "btsport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664577275.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/btsport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "btsport1"
+  },
+  {
+    "name": "btsport2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664577284.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/btsport2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "btsport2"
+  },
+  {
+    "name": "btsport3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664577293.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/btsport3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "btsport3"
+  },
+  {
+    "name": "btsport4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1667415893.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/btsport4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "btsport4"
+  },
+  {
+    "name": "bloomberg-television",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705785346.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bloomberg-television/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bloomberg-television"
+  },
+  {
+    "name": "boomerang",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705504202.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/boomerang/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "boomerang"
+  },
+  {
+    "name": "cbssports",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1697707418.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cbssports/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cbssports"
+  },
+  {
+    "name": "cbeebies",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1709573298.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cbeebies/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cbeebies"
+  },
+  {
+    "name": "ccm",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719803240.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ccm/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ccm"
+  },
+  {
+    "name": "cctv4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705785371.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cctv4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cctv4"
+  },
+  {
+    "name": "cgtn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1730731019.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cgtn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cgtn"
+  },
+  {
+    "name": "ch8",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1704117313.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ch8/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ch8"
+  },
+  {
+    "name": "cinemax",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703786799.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cinemax/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cinemax"
+  },
+  {
+    "name": "cna",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1730731242.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cna/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cna"
+  },
+  {
+    "name": "cnbc",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719802797.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cnbc/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cnbc"
+  },
+  {
+    "name": "cnn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705785357.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cnn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cnn"
+  },
+  {
+    "name": "canal11pt",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1663979533.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/canal11pt/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "canal11pt"
+  },
+  {
+    "name": "cartoon-network",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1708344243.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoon-network/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cartoon-network"
+  },
+  {
+    "name": "crime-investigation",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1714101661.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/crime-investigation/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "crime-investigation"
+  },
+  {
+    "name": "dazn1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1679423986.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn1"
+  },
+  {
+    "name": "dazn1es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1715571844.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn1es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn1es"
+  },
+  {
+    "name": "dazn2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694286704.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn2"
+  },
+  {
+    "name": "dazn2es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1715571857.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn2es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn2es"
+  },
+  {
+    "name": "dazn3es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1737512608.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn3es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn3es"
+  },
+  {
+    "name": "dazn4es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1737512619.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn4es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn4es"
+  },
+  {
+    "name": "daznf1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1696279327.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/daznf1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "daznf1"
+  },
+  {
+    "name": "dazn-laliga",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1711566401.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn-laliga/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn-laliga"
+  },
+  {
+    "name": "dazn-unbeaten",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1704685964.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dazn-unbeaten/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dazn-unbeaten"
+  },
+  {
+    "name": "dkl-movies",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1707127821.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dkl-movies/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dkl-movies"
+  },
+  {
+    "name": "dklsport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695137395.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dklsport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dklsport1"
+  },
+  {
+    "name": "dklsport2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695137408.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dklsport2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dklsport2"
+  },
+  {
+    "name": "dklsport3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695137420.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dklsport3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dklsport3"
+  },
+  {
+    "name": "dmax",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1714101765.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dmax/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dmax"
+  },
+  {
+    "name": "dw-english",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1741548645.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dw-english/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dw-english"
+  },
+  {
+    "name": "diemasport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664315169.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/diemasport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "diemasport1"
+  },
+  {
+    "name": "digisport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664126175.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/digisport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "digisport1"
+  },
+  {
+    "name": "digisport2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1667654703.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/digisport2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "digisport2"
+  },
+  {
+    "name": "discovery",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1706112738.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/discovery/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "discovery"
+  },
+  {
+    "name": "discovery-asia",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1706112755.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/discovery-asia/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "discovery-asia"
+  },
+  {
+    "name": "disney-channel",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1716361978.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/disney-channel/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "disney-channel"
+  },
+  {
+    "name": "disney-junior",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1716362497.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/disney-junior/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "disney-junior"
+  },
+  {
+    "name": "disneyxd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1716362753.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/disneyxd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "disneyxd"
+  },
+  {
+    "name": "dreamworks",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1723200736.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/dreamworks/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "dreamworks"
+  },
+  {
+    "name": "foxsports1nl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664501652.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports1nl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports1nl"
+  },
+  {
+    "name": "foxsports2nl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664501662.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports2nl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports2nl"
+  },
+  {
+    "name": "foxsports3nl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664501676.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports3nl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports3nl"
+  },
+  {
+    "name": "foxsports4nl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664501687.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports4nl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports4nl"
+  },
+  {
+    "name": "daznproleague1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1722089133.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/daznproleague1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "daznproleague1"
+  },
+  {
+    "name": "elevensports1pl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755193750.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/elevensports1pl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "elevensports1pl"
+  },
+  {
+    "name": "elevensports2pl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755193861.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/elevensports2pl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "elevensports2pl"
+  },
+  {
+    "name": "elevensports3pl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755107581.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/elevensports3pl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "elevensports3pl"
+  },
+  {
+    "name": "elevensports4pl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755107660.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/elevensports4pl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "elevensports4pl"
+  },
+  {
+    "name": "euronews",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731890666.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/euronews/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "euronews"
+  },
+  {
+    "name": "eurosport",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1753040524.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/eurosport/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "eurosport"
+  },
+  {
+    "name": "eurosport1es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1711566124.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/eurosport1es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "eurosport1es"
+  },
+  {
+    "name": "eurosport2es",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1711566136.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/eurosport2es/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "eurosport2es"
+  },
+  {
+    "name": "f1tv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1774759298.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/f1tv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "f1tv"
+  },
+  {
+    "name": "fifaplus",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1739094315.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/fifaplus/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "fifaplus"
+  },
+  {
+    "name": "foxsports1usa",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664219664.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports1usa/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports1usa"
+  },
+  {
+    "name": "foxsports2usa",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1673668104.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foxsports2usa/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foxsports2usa"
+  },
+  {
+    "name": "fashiontv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731888593.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/fashiontv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "fashiontv"
+  },
+  {
+    "name": "fight-sports",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1708490904.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/fight-sports/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "fight-sports"
+  },
+  {
+    "name": "foodnetwork",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1717696062.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foodnetwork/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foodnetwork"
+  },
+  {
+    "name": "foodiez-channel",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1772460739.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/foodiez-channel/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "foodiez-channel"
+  },
+  {
+    "name": "france24",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731889662.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/france24/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "france24"
+  },
+  {
+    "name": "gmm25",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725896937.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/gmm25/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "gmm25"
+  },
+  {
+    "name": "golfchannel",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664801941.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/golfchannel/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "golfchannel"
+  },
+  {
+    "name": "hbo",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703686191.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hbo"
+  },
+  {
+    "name": "hbo-family",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703786776.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-family/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hbo-family"
+  },
+  {
+    "name": "hbo-hits",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703786599.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-hits/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hbo-hits"
+  },
+  {
+    "name": "hbo-signature",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703786305.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hbo-signature/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hbo-signature"
+  },
+  {
+    "name": "hits",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1706112791.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hits/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hits"
+  },
+  {
+    "name": "hits-movies",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1714100677.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hits-movies/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hits-movies"
+  },
+  {
+    "name": "hitsnow",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733772007.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hitsnow/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hitsnow"
+  },
+  {
+    "name": "hubsports2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725050242.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hubsports2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hubsports2"
+  },
+  {
+    "name": "history",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1713231372.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/history/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "history"
+  },
+  {
+    "name": "hunan-tv-hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1741273908.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/hunan-tv-hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "hunan-tv-hd"
+  },
+  {
+    "name": "kbskorea",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725961079.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/kbskorea/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "kbskorea"
+  },
+  {
+    "name": "kbsworld",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719897483.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/kbsworld/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "kbsworld"
+  },
+  {
+    "name": "l1max",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1723923355.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/l1max/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "l1max"
+  },
+  {
+    "name": "lfctv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1669940282.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/lfctv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "lfctv"
+  },
+  {
+    "name": "laliga-hypermotion-tv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1718320056.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/laliga-hypermotion-tv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "laliga-hypermotion-tv"
+  },
+  {
+    "name": "laliga-hypermotion-tv-2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1718320112.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/laliga-hypermotion-tv-2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "laliga-hypermotion-tv-2"
+  },
+  {
+    "name": "laliga-hypermotion-tv-3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1718320120.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/laliga-hypermotion-tv-3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "laliga-hypermotion-tv-3"
+  },
+  {
+    "name": "lovenature4k",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1729286214.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/lovenature4k/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "lovenature4k"
+  },
+  {
+    "name": "mlaliga",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1761504193.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlaliga/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlaliga"
+  },
+  {
+    "name": "mlaliga2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1761504242.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlaliga2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlaliga2"
+  },
+  {
+    "name": "mlaliga3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1761504270.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlaliga3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlaliga3"
+  },
+  {
+    "name": "mlaliga4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1761504285.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlaliga4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlaliga4"
+  },
+  {
+    "name": "mlaliga5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1764756845.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlaliga5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlaliga5"
+  },
+  {
+    "name": "maxsport1hr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731005824.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/maxsport1hr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "maxsport1hr"
+  },
+  {
+    "name": "mcothd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1671966260.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mcothd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mcothd"
+  },
+  {
+    "name": "mlb",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695548172.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mlb/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mlb"
+  },
+  {
+    "name": "mono29",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703787713.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mono29/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mono29"
+  },
+  {
+    "name": "mono29plus",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703787733.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mono29plus/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mono29plus"
+  },
+  {
+    "name": "mtv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1721687257.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mtv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mtv"
+  },
+  {
+    "name": "mutv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1665106261.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mutv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mutv"
+  },
+  {
+    "name": "mono-29-music-station",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1742428538.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mono-29-music-station/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mono-29-music-station"
+  },
+  {
+    "name": "monomax1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1753517049.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/monomax1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "monomax1"
+  },
+  {
+    "name": "monomax-2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755093093.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/monomax-2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "monomax-2"
+  },
+  {
+    "name": "moonbug",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1721687729.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/moonbug/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "moonbug"
+  },
+  {
+    "name": "nba",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664532126.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nba/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nba"
+  },
+  {
+    "name": "nbt2hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725895790.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nbt2hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nbt2hd"
+  },
+  {
+    "name": "nfl",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694909293.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nfl/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nfl"
+  },
+  {
+    "name": "nhk",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731890206.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nhk/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nhk"
+  },
+  {
+    "name": "nationtv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725896561.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nationtv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nationtv"
+  },
+  {
+    "name": "national-geographic",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1716366217.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/national-geographic/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "national-geographic"
+  },
+  {
+    "name": "nickjr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1708344362.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickjr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nickjr"
+  },
+  {
+    "name": "nickelodeon",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1708344306.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nickelodeon/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nickelodeon"
+  },
+  {
+    "name": "onefc",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1774002787.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/onefc/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "onefc"
+  },
+  {
+    "name": "playsports63",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1772699287.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/playsports63/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "playsports63"
+  },
+  {
+    "name": "pptv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664499074.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/pptv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "pptv"
+  },
+  {
+    "name": "polsatsport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1721182604.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/polsatsport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "polsatsport1"
+  },
+  {
+    "name": "polsatsport2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1723569749.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/polsatsport2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "polsatsport2"
+  },
+  {
+    "name": "polsatsport3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1722964013.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/polsatsport3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "polsatsport3"
+  },
+  {
+    "name": "polsatsportpremium1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1721584784.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/polsatsportpremium1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "polsatsportpremium1"
+  },
+  {
+    "name": "polsatsportpremium2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724779203.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/polsatsportpremium2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "polsatsportpremium2"
+  },
+  {
+    "name": "primasport1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694689157.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primasport1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primasport1"
+  },
+  {
+    "name": "primasport2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695249914.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primasport2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primasport2"
+  },
+  {
+    "name": "primasport3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695604346.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primasport3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primasport3"
+  },
+  {
+    "name": "primasport4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1695398839.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primasport4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primasport4"
+  },
+  {
+    "name": "primasport5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1696610104.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primasport5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primasport5"
+  },
+  {
+    "name": "primatv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1697334593.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/primatv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "primatv"
+  },
+  {
+    "name": "rock-action",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1718690264.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/rock-action/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "rock-action"
+  },
+  {
+    "name": "rock-entertainment",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1718690283.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/rock-entertainment/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "rock-entertainment"
+  },
+  {
+    "name": "rt-documentary",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731890461.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/rt-documentary/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "rt-documentary"
+  },
+  {
+    "name": "rush-stories",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1741273735.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/rush-stories/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "rush-stories"
+  },
+  {
+    "name": "realmadridtv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1755295527.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/realmadridtv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "realmadridtv"
+  },
+  {
+    "name": "redbull-tv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1711566263.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/redbull-tv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "redbull-tv"
+  },
+  {
+    "name": "rock-x-stream",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1772989735.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/rock-x-stream/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "rock-x-stream"
+  },
+  {
+    "name": "spl01",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1726225121.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/spl01/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "spl01"
+  },
+  {
+    "name": "spl02",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1726225130.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/spl02/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "spl02"
+  },
+  {
+    "name": "spotv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664529562.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "spotv"
+  },
+  {
+    "name": "spotv2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664529575.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/spotv2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "spotv2"
+  },
+  {
+    "name": "showtime",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1770674151.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/showtime/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "showtime"
+  },
+  {
+    "name": "skysportsf1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1712888821.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/skysportsf1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "skysportsf1"
+  },
+  {
+    "name": "skysportsplus",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725980915.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/skysportsplus/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "skysportsplus"
+  },
+  {
+    "name": "sporttvplus",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1736239662.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttvplus/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttvplus"
+  },
+  {
+    "name": "sporttv1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1663979709.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv1"
+  },
+  {
+    "name": "sporttv2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1663979801.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv2"
+  },
+  {
+    "name": "sporttv3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1663980327.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv3"
+  },
+  {
+    "name": "sporttv4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664041351.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv4"
+  },
+  {
+    "name": "sporttv5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664125991.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv5"
+  },
+  {
+    "name": "sporttv6",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1736239304.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv6/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv6"
+  },
+  {
+    "name": "sporttv7",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1736239646.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sporttv7/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sporttv7"
+  },
+  {
+    "name": "3bbsports1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1720429672.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/3bbsports1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "3bbsports1"
+  },
+  {
+    "name": "tsports7",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1673134276.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsports7/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsports7"
+  },
+  {
+    "name": "tlc",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1717696038.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tlc/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tlc"
+  },
+  {
+    "name": "tnn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725896332.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tnn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tnn"
+  },
+  {
+    "name": "btsport5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1691521854.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/btsport5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "btsport5"
+  },
+  {
+    "name": "tntusa",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694456079.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tntusa/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tntusa"
+  },
+  {
+    "name": "topnews",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1742428070.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/topnews/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "topnews"
+  },
+  {
+    "name": "tudnusa",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1689987703.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tudnusa/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tudnusa"
+  },
+  {
+    "name": "tvokey",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719438426.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tvokey/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tvokey"
+  },
+  {
+    "name": "tvbclassichd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719898154.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tvbclassichd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tvbclassichd"
+  },
+  {
+    "name": "thaipbs",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725895931.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/thaipbs/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "thaipbs"
+  },
+  {
+    "name": "thainess",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1742428803.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/thainess/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "thainess"
+  },
+  {
+    "name": "true4u",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725896844.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/true4u/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "true4u"
+  },
+  {
+    "name": "true4k",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1736811193.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/true4k/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "true4k"
+  },
+  {
+    "name": "trueasianmore",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719205850.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueasianmore/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueasianmore"
+  },
+  {
+    "name": "trueballthai9",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1723660123.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueballthai9/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueballthai9"
+  },
+  {
+    "name": "trueexploresci",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724167268.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueexploresci/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueexploresci"
+  },
+  {
+    "name": "trueexplorewild",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724166218.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueexplorewild/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueexplorewild"
+  },
+  {
+    "name": "truefilm1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1720380229.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truefilm1"
+  },
+  {
+    "name": "truefilm2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1720723122.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truefilm2"
+  },
+  {
+    "name": "truefilmasia",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719205705.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truefilmasia/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truefilmasia"
+  },
+  {
+    "name": "truemoviehits",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719803882.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truemoviehits/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truemoviehits"
+  },
+  {
+    "name": "tpf3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664499681.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tpf3"
+  },
+  {
+    "name": "tpf4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664499692.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tpf4"
+  },
+  {
+    "name": "tpf5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664499700.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tpf5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tpf5"
+  },
+  {
+    "name": "trueseries",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719205991.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueseries/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueseries"
+  },
+  {
+    "name": "truesparkplay",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1720723541.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truesparkplay/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truesparkplay"
+  },
+  {
+    "name": "truetennis",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1717257614.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truetennis/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truetennis"
+  },
+  {
+    "name": "truethaifilm",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1706539896.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truethaifilm/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truethaifilm"
+  },
+  {
+    "name": "truex-zyte",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1719206155.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/truex-zyte/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "truex-zyte"
+  },
+  {
+    "name": "tycsports",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1699121407.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tycsports/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tycsports"
+  },
+  {
+    "name": "ufcfightpass",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1731847474.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ufcfightpass/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ufcfightpass"
+  },
+  {
+    "name": "universo",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1698455515.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/universo/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "universo"
+  },
+  {
+    "name": "volleyball1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1728462430.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "volleyball1"
+  },
+  {
+    "name": "volleyball2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1728462447.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "volleyball2"
+  },
+  {
+    "name": "volleyball3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1728462457.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/volleyball3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "volleyball3"
+  },
+  {
+    "name": "volleyball4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1728462466.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/volleyball4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "volleyball4"
+  },
+  {
+    "name": "volleyball5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1728462475.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/volleyball5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "volleyball5"
+  },
+  {
+    "name": "w-sport",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1753040687.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/w-sport/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "w-sport"
+  },
+  {
+    "name": "wwe",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1696317392.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/wwe/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "wwe"
+  },
+  {
+    "name": "warnertv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703832225.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/warnertv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "warnertv"
+  },
+  {
+    "name": "workpointtv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1725896683.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/workpointtv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "workpointtv"
+  },
+  {
+    "name": "yunnan-international",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1741274034.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/yunnan-international/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "yunnan-international"
+  },
+  {
+    "name": "beinsport1fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664323955.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinsport1fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinsport1fr"
+  },
+  {
+    "name": "beinsports1tu",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664502528.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinsports1tu/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinsports1tu"
+  },
+  {
+    "name": "beinmax10fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733602113.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinmax10fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinmax10fr"
+  },
+  {
+    "name": "beinsport2fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1685036091.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinsport2fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinsport2fr"
+  },
+  {
+    "name": "beinsports2tu",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664502539.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinsports2tu/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinsports2tu"
+  },
+  {
+    "name": "beinsport3fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733600709.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinsport3fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinsport3fr"
+  },
+  {
+    "name": "bein3tu",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664581228.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3tu/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein3tu"
+  },
+  {
+    "name": "beinmax4fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733601219.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinmax4fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinmax4fr"
+  },
+  {
+    "name": "bein4tu",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664581241.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein4tu/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein4tu"
+  },
+  {
+    "name": "beinmax7fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733601777.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinmax7fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinmax7fr"
+  },
+  {
+    "name": "beinmax8fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733602058.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinmax8fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinmax8fr"
+  },
+  {
+    "name": "beinmax9fr",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1733602083.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/beinmax9fr/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "beinmax9fr"
+  },
+  {
+    "name": "cartoonito",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1704039063.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/cartoonito/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "cartoonito"
+  },
+  {
+    "name": "iqiyi",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1706405008.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/iqiyi/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "iqiyi"
+  },
+  {
+    "name": "nicktoons",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1713282303.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/nicktoons/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "nicktoons"
+  },
+  {
+    "name": "one31",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1683394005.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/one31/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "one31"
+  },
+  {
+    "name": "sportdigital",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664202734.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/sportdigital/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "sportdigital"
+  },
+  {
+    "name": "tsp1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664802455.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp1"
+  },
+  {
+    "name": "tsp2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664499966.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp2"
+  },
+  {
+    "name": "tsp3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664802480.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp3"
+  },
+  {
+    "name": "tsp4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1717396131.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp4"
+  },
+  {
+    "name": "tsp5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664847910.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp5"
+  },
+  {
+    "name": "tsp7",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664847921.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tsp7/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tsp7"
+  },
+  {
+    "name": "tvn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1703833429.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tvn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tvn"
+  },
+  {
+    "name": "tvn-movies",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1714100840.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/tvn-movies/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "tvn-movies"
+  },
+  {
+    "name": "ch3hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1685812254.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ch3hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ch3hd"
+  },
+  {
+    "name": "ch5hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664574997.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ch5hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ch5hd"
+  },
+  {
+    "name": "ch7hd",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1688059473.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/ch7hd/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "ch7hd"
+  },
+  {
+    "name": "knowledge-tank",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1742239916.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/knowledge-tank/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "knowledge-tank"
+  },
+  {
+    "name": "trueidsports1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1743311087.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/trueidsports1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "trueidsports1"
+  },
+  {
+    "name": "bein1",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1664500365.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein1"
+  },
+  {
+    "name": "bein1_617",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1726690688.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein1_617/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein1_617"
+  },
+  {
+    "name": "bein10",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724346113.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein10/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein10"
+  },
+  {
+    "name": "bein2",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1690843424.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein2/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein2"
+  },
+  {
+    "name": "bein3",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1663980670.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein3/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein3"
+  },
+  {
+    "name": "bein4",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1692816640.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein4/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein4"
+  },
+  {
+    "name": "bein5",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1693290376.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein5/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein5"
+  },
+  {
+    "name": "bein6",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694719513.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein6/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein6"
+  },
+  {
+    "name": "bein7",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1694719622.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein7/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein7"
+  },
+  {
+    "name": "bein8",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724241278.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein8/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein8"
+  },
+  {
+    "name": "bein9",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1724241287.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/bein9/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "bein9"
+  },
+  {
+    "name": "mangorn",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705503765.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/mangorn/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "mangorn"
+  },
+  {
+    "name": "samrujlok",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1705536821.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/samrujlok/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "samrujlok"
+  },
+  {
+    "name": "thairathtv",
+    "type": "m3u8",
+    "image": "https://dookeela.live/uploads/1686800227.png",
+    "url": "https://cdn2.stream.atmflix.live/atmflixlive/thairathtv/chunks.m3u8",
+    "referer": "https://atmflix.live/",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140",
+    "info": "thairathtv"
+  }
+]
