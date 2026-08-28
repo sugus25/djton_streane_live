@@ -6,7 +6,7 @@
   "scope": "/djton_streane_live/",
   "display": "standalone",
   "background_color": "#12121f",
-  "theme_color": "#00c8ff",
+  "theme_color": "#CC0033",
   "orientation": "portrait",
   "icons": [
     {
@@ -23,4 +23,3 @@
     }
   ]
 }
- 
