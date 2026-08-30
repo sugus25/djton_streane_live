@@ -2,7 +2,7 @@
   "name": "📺 ต้นทีวีออนไลน์",
   "short_name": "ต้นทีวี",
   "description": "ต้นทีวีออนไลน์ — รองรับ M3U / JSON / W3U / HLS / DASH",
-  "start_url": "/djton_streane_live/",
+  "start_url": "https://sugus25.github.io/djton_streane_live/",
   "scope": "/djton_streane_live/",
   "display": "standalone",
   "background_color": "#12121f",
@@ -26,4 +26,4 @@
 
 
 
-": "📺 ต้นทีวีออนไลน์ๅ
+": "📺 ต้นทีวีออนไลน์
